@@ -1,10 +1,3 @@
-Title: Multiprocessing using python
-Date: 2014/05/27 10:20
-Category: Python
-Tags: pelican, publishing
-Author: Prateek Singhal
-Summary: Short version for index and feeds
-
 ### Simple Linear Regression using Python Multiprocessing library
 
 I recently learned executing "Simple Linear Regression" using `multiprocessing` module in python. This module is used for parallel processing in python. The `β` for Simple Linear Regression is calculated using the following formula:
